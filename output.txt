@@ -1,0 +1,22 @@
+At time : 17:07:14 IST
+{'Symbol': 'BTC-USD', 'Name': 'Bitcoin USD', 'Price (Intraday)': '24,367.04', 'Change': '-391.36', '% Change': '-1.58%', 'Market Cap': '470.24B', 'Volume in Currency (Since 0:00 UTC)': '31.218B', 'Volume in Currency (24Hr)': '31.218B', 'Total Volume All Currencies (24Hr)': '31.218B', 'Circulating Supply': '19.298M'}
+
+{'Symbol': 'ETH-USD', 'Name': 'Ethereum USD', 'Price (Intraday)': '1,651.76', 'Change': '-46.48', '% Change': '-2.74%', 'Market Cap': '202.132B', 'Volume in Currency (Since 0:00 UTC)': '8.688B', 'Volume in Currency (24Hr)': '8.688B', 'Total Volume All Currencies (24Hr)': '8.688B', 'Circulating Supply': '122.374M'}
+
+{'Symbol': 'USDT-USD', 'Name': 'Tether USD', 'Price (Intraday)': '1.0002', 'Change': '-0.0000', '% Change': '-0.00%', 'Market Cap': '70.451B', 'Volume in Currency (Since 0:00 UTC)': '45.456B', 'Volume in Currency (24Hr)': '45.456B', 'Total Volume All Currencies (24Hr)': '45.456B', 'Circulating Supply': '70.439B'}
+
+{'Symbol': 'BNB-USD', 'Name': 'BNB USD', 'Price (Intraday)': '310.98', 'Change': '-3.59', '% Change': '-1.14%', 'Market Cap': '49.104B', 'Volume in Currency (Since 0:00 UTC)': '580.188M', 'Volume in Currency (24Hr)': '580.188M', 'Total Volume All Currencies (24Hr)': '580.188M', 'Circulating Supply': '157.897M'}
+
+{'Symbol': 'USDC-USD', 'Name': 'USD Coin USD', 'Price (Intraday)': '1.0000', 'Change': '+0.0000', '% Change': '+0.00%', 'Market Cap': '42.133B', 'Volume in Currency (Since 0:00 UTC)': '4.124B', 'Volume in Currency (24Hr)': '4.124B', 'Total Volume All Currencies (24Hr)': '4.124B', 'Circulating Supply': '42.133B'}
+
+At time : 17:08:15 IST
+{'Symbol': 'BTC-USD', 'Name': 'Bitcoin USD', 'Price (Intraday)': '24,367.04', 'Change': '-391.36', '% Change': '-1.58%', 'Market Cap': '470.24B', 'Volume in Currency (Since 0:00 UTC)': '31.218B', 'Volume in Currency (24Hr)': '31.218B', 'Total Volume All Currencies (24Hr)': '31.218B', 'Circulating Supply': '19.298M'}
+
+{'Symbol': 'ETH-USD', 'Name': 'Ethereum USD', 'Price (Intraday)': '1,651.76', 'Change': '-46.48', '% Change': '-2.74%', 'Market Cap': '202.132B', 'Volume in Currency (Since 0:00 UTC)': '8.688B', 'Volume in Currency (24Hr)': '8.688B', 'Total Volume All Currencies (24Hr)': '8.688B', 'Circulating Supply': '122.374M'}
+
+{'Symbol': 'USDT-USD', 'Name': 'Tether USD', 'Price (Intraday)': '1.0002', 'Change': '-0.0000', '% Change': '-0.00%', 'Market Cap': '70.451B', 'Volume in Currency (Since 0:00 UTC)': '45.456B', 'Volume in Currency (24Hr)': '45.456B', 'Total Volume All Currencies (24Hr)': '45.456B', 'Circulating Supply': '70.439B'}
+
+{'Symbol': 'BNB-USD', 'Name': 'BNB USD', 'Price (Intraday)': '310.98', 'Change': '-3.59', '% Change': '-1.14%', 'Market Cap': '49.104B', 'Volume in Currency (Since 0:00 UTC)': '580.188M', 'Volume in Currency (24Hr)': '580.188M', 'Total Volume All Currencies (24Hr)': '580.188M', 'Circulating Supply': '157.897M'}
+
+{'Symbol': 'USDC-USD', 'Name': 'USD Coin USD', 'Price (Intraday)': '1.0000', 'Change': '+0.0000', '% Change': '+0.00%', 'Market Cap': '42.133B', 'Volume in Currency (Since 0:00 UTC)': '4.124B', 'Volume in Currency (24Hr)': '4.124B', 'Total Volume All Currencies (24Hr)': '4.124B', 'Circulating Supply': '42.133B'}
+
